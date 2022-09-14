@@ -2,7 +2,7 @@
 This is MyCanal Wrapped -->! API Document &lt;--
 
 # Info
->> API DOCUMENTATION FOR MYCANAL
+> API DOCUMENTATION FOR MYCANAL
 
 # Usage
 ```py
